@@ -1,0 +1,13 @@
+/* PostsDisplay styles */
+.posts-display {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+/* Responsive design */
+@media (max-width: 600px) {
+  .posts-display {
+    width: 90%;
+    margin: 0 auto;
+  }
+}
